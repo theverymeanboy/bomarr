@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Joe Cruz <joecruz.tvmb@gmail.com> (https://cnpagency.com)",
   "description": "A simple NodeJS web crawler.",
-  "homepage": "https://cnpagency.com",
+  "homepage": "https://github.com/theverymeanboy/bomarr",
   "main": "bin/spider.js",
   "license": "MIT",
   "bugs": {
