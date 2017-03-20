@@ -1,6 +1,6 @@
 {
   "name": "bomarr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Joe Cruz <joecruz.tvmb@gmail.com> (https://cnpagency.com)",
   "description": "A simple NodeJS web crawler.",
   "homepage": "https://github.com/theverymeanboy/bomarr",
